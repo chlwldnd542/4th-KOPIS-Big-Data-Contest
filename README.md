@@ -94,7 +94,7 @@
 ## 📎 팀 정보
 
 - 팀명: **뀨융** (000710-04)
-- 프로젝트: [KOPIS 빅데이터 공모전](https://www.kopis.or.kr/https://www.kopis.or.kr/)
+- 프로젝트: [KOPIS 빅데이터 공모전]([https://www.kopis.or.kr/https://www.kopis.or.kr/](https://www.kopis.or.kr/por/cs/notice/csNoticeListView.do?ntt_id=3173&listCurPage=1&srchType=subject&srchText=&menuId=MNU_000104))
 - 사용 기술: Python (pandas, scikit-learn, xgboost, catboost, lightgbm)
 ---
 
