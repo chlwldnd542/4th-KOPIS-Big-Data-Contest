@@ -93,9 +93,9 @@
 
 ## 📎 팀 정보
 
-- 팀명: **뀨융**
-- 프로젝트: [KOPIS 빅데이터 공모전](https://www.kopis.or.kr/)
-- 사용 기술: Python (pandas, scikit-learn, xgboost, catboost, lightgbm), Jupyter
+- 팀명: **뀨융** (000710-04)
+- 프로젝트: [KOPIS 빅데이터 공모전](https://www.kopis.or.kr/https://www.kopis.or.kr/)
+- 사용 기술: Python (pandas, scikit-learn, xgboost, catboost, lightgbm)
 ---
 
 
